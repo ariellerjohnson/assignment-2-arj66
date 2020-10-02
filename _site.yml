@@ -7,4 +7,6 @@ navbar:
       href: arielle.html  
     - text: "Toby"  
       href: Toby.html
-theme: paper
+output:
+  html_document:
+    theme: paper
