@@ -1,7 +1,9 @@
-output_dir: "."
-navbar:
-  left:
-    - text: "Home"
-      href: index.html
-    - text: "Arielle"
-      href: arielle.html
+output_dir: "."  
+navbar:  
+  left:  
+    - text: "Home"  
+      href: index.html  
+    - text: "Arielle"  
+      href: arielle.html  
+    - text: "Toby"  
+      href: Toby.html  
