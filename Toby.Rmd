@@ -2,11 +2,7 @@
 title: "Toby"
 author: "Toby J Holda"
 date: "`r Sys.Date()`"
-output: rmarkdown::html_vignette
-vignette: >
-  %\VignetteIndexEntry{Toby}
-  %\VignetteEngine{knitr::rmarkdown}
-  %\VignetteEncoding{UTF-8}
+output: html_document
 ---
 
 - PhD Candidate in Natural Resources at Cornell University
