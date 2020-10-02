@@ -1,0 +1,8 @@
+---
+title: "Arielle and Toby's Collaborative Website"
+output: html_document
+---
+Arielle Johnson: <https://github.com/ariellerjohnson>  
+Toby Holda: <https://github.com/t-holda/assignment-2-tjh249>
+
+![wood lily (*Lilium philadelphicum*)](https://static.inaturalist.org/photos/82900378/large.jpg?1594052289)
