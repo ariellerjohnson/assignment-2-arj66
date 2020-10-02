@@ -1,6 +1,6 @@
 output_dir: "."  
 navbar:  
-  left:  
+  right:  
     - text: "Home"  
       href: index.html  
     - text: "Arielle"  
