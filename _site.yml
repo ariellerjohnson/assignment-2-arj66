@@ -9,4 +9,4 @@ navbar:
       href: Toby.html
 output:
   html_document:
-    theme: paper
+    theme: sandstone
